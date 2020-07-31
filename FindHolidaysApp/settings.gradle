@@ -1,0 +1,2 @@
+rootProject.name='FindHolidaysApp'
+include ':app'

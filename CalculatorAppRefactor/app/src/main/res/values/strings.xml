@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="divide_zero">Cannot divide by zero</string>
+    <string name="null_data">You forgot to field all fields </string>
+    <string name="wrong_format">Check you input data for correctness </string>
+    <string name="wrong_operation">Check you operation, app can calculate operations: +,-,*, / </string>
+    <string name="input_first">Input first number</string>
+    <string name="input_second">Input second number</string>
+    <string name="input_operation">Input operation</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result:</string>
+
+
+</resources>
+
+

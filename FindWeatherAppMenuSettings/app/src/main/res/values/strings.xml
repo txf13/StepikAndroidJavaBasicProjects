@@ -1,0 +1,34 @@
+
+<resources>
+<string name="app_name">FindWeatherApp</string>
+<string name="action_settings" translatable="true">Settings</string>
+<string name="error_message" translatable="true">Error. Try later.</string>
+<string name="action_refresh" translatable="true">Refresh</string>
+
+    <string name="show_pressure_settings_key" translatable="false">show_pressure</string>
+
+<string name="show_pressure_settings_label" translatable="true">Show pressure</string>
+<string name="show_wind_settings_key" translatable="false">show_wind</string>
+<string name="show_wind_settings_label" translatable="true">Show wind</string>
+
+<string name="hided" translatable="true">Hided</string>
+<string name="shown" translatable="true">Shown</string>
+
+<!-- Label for the color preference -->
+<string name="pref_color_label" translatable="true">Shape Color</string>
+<!-- Label for red color preference -->
+<string name="pref_color_label_red" translatable="true">Red</string>
+<!-- Label for blue color preference -->
+<string name="pref_color_label_blue" translatable="true">Blue</string>
+<!-- Label for green color preference -->
+<string name="pref_color_label_green" translatable="true">Green</string>
+<!-- Key name for color preference in SharedPreferences -->
+<string name="pref_color_key" translatable="false">color</string>
+<!-- Value in SharedPreferences for red color option -->
+<string name="pref_color_red_value" translatable="false">red</string>
+<!-- Value in SharedPreferences for blue color option -->
+<string name="pref_color_blue_value" translatable="false">blue</string>
+<!-- Value in SharedPreferences for green color option -->
+<string name="pref_color_green_value" translatable="false">green</string>
+
+</resources>
